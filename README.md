@@ -1,4 +1,4 @@
-# Yazılım Proje Yönetimi
+# Kitap Evi Uygulaması
 MARİANA KİTAPEVİ UYGULAMASI
 
 EKİP
