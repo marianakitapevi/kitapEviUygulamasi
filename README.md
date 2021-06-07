@@ -1,5 +1,5 @@
 # Kitap Evi Uygulaması
-MARİANA KİTAPEVİ UYGULAMASI
+KİTAPEVİ UYGULAMASI
 
 EKİP
  
@@ -9,3 +9,5 @@ EKİP
 
 Trello Linki 
 https://trello.com/b/lzdR3BDY/marianakitabevi
+jlJKŞdslslş
+fkşsa
